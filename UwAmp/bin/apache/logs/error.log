@@ -1,0 +1,157 @@
+[Wed Apr 24 22:13:46.671956 2024] [ssl:warn] [pid 23724:tid 512] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Apr 24 22:13:46.684524 2024] [ssl:warn] [pid 23724:tid 512] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 24 22:13:47.316142 2024] [ssl:warn] [pid 23724:tid 512] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Apr 24 22:13:47.318141 2024] [ssl:warn] [pid 23724:tid 512] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Apr 24 22:13:47.318141 2024] [ssl:warn] [pid 23724:tid 512] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 24 22:13:48.281386 2024] [mpm_winnt:notice] [pid 23724:tid 512] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/5.6.18 configured -- resuming normal operations
+[Wed Apr 24 22:13:48.281386 2024] [mpm_winnt:notice] [pid 23724:tid 512] AH00456: Server built: Jan 28 2016 09:58:25
+[Wed Apr 24 22:13:48.281386 2024] [core:notice] [pid 23724:tid 512] AH00094: Command line: 'C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/Users/aliss/Downloads/UwAmp/UwAmp/bin/apache -f C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Wed Apr 24 22:13:48.296987 2024] [mpm_winnt:notice] [pid 23724:tid 512] AH00418: Parent: Created child process 8104
+[Wed Apr 24 22:13:51.925469 2024] [ssl:warn] [pid 8104:tid 688] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Apr 24 22:13:51.928467 2024] [ssl:warn] [pid 8104:tid 688] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 24 22:13:52.419309 2024] [ssl:warn] [pid 8104:tid 688] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Apr 24 22:13:52.421858 2024] [ssl:warn] [pid 8104:tid 688] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Apr 24 22:13:52.421858 2024] [ssl:warn] [pid 8104:tid 688] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 24 22:13:52.549841 2024] [mpm_winnt:notice] [pid 8104:tid 688] AH00354: Child: Starting 64 worker threads.
+[Wed Apr 24 22:14:38.146278 2024] [mpm_winnt:crit] [pid 8104:tid 688] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Wed Apr 24 22:14:43.310551 2024] [ssl:warn] [pid 23500:tid 684] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Apr 24 22:14:43.313828 2024] [ssl:warn] [pid 23500:tid 684] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 24 22:14:43.434582 2024] [core:warn] [pid 23500:tid 684] AH00098: pid file C:/Users/aliss/Downloads/UwAmp/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 24 22:14:43.809449 2024] [ssl:warn] [pid 23500:tid 684] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Apr 24 22:14:43.810458 2024] [ssl:warn] [pid 23500:tid 684] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Apr 24 22:14:43.810458 2024] [ssl:warn] [pid 23500:tid 684] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 24 22:14:44.678517 2024] [mpm_winnt:notice] [pid 23500:tid 684] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Wed Apr 24 22:14:44.678517 2024] [mpm_winnt:notice] [pid 23500:tid 684] AH00456: Server built: Jan 28 2016 09:58:25
+[Wed Apr 24 22:14:44.679512 2024] [core:notice] [pid 23500:tid 684] AH00094: Command line: 'C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/Users/aliss/Downloads/UwAmp/UwAmp/bin/apache -f C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Wed Apr 24 22:14:44.700359 2024] [mpm_winnt:notice] [pid 23500:tid 684] AH00418: Parent: Created child process 23476
+[Wed Apr 24 22:14:48.628093 2024] [ssl:warn] [pid 23476:tid 760] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Apr 24 22:14:48.632158 2024] [ssl:warn] [pid 23476:tid 760] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 24 22:14:49.178198 2024] [ssl:warn] [pid 23476:tid 760] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Apr 24 22:14:49.179212 2024] [ssl:warn] [pid 23476:tid 760] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Apr 24 22:14:49.179212 2024] [ssl:warn] [pid 23476:tid 760] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 24 22:14:49.272324 2024] [mpm_winnt:notice] [pid 23476:tid 760] AH00354: Child: Starting 64 worker threads.
+[Wed Apr 24 22:15:48.558458 2024] [mpm_winnt:crit] [pid 23476:tid 760] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Wed Apr 24 22:15:55.708405 2024] [ssl:warn] [pid 22888:tid 684] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Apr 24 22:15:55.710404 2024] [ssl:warn] [pid 22888:tid 684] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 24 22:15:55.832101 2024] [core:warn] [pid 22888:tid 684] AH00098: pid file C:/Users/aliss/Downloads/UwAmp/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 24 22:15:56.278183 2024] [ssl:warn] [pid 22888:tid 684] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Apr 24 22:15:56.279702 2024] [ssl:warn] [pid 22888:tid 684] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Apr 24 22:15:56.279754 2024] [ssl:warn] [pid 22888:tid 684] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 24 22:15:56.519229 2024] [mpm_winnt:notice] [pid 22888:tid 684] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Wed Apr 24 22:15:56.519229 2024] [mpm_winnt:notice] [pid 22888:tid 684] AH00456: Server built: Jan 28 2016 09:58:25
+[Wed Apr 24 22:15:56.519229 2024] [core:notice] [pid 22888:tid 684] AH00094: Command line: 'C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/Users/aliss/Downloads/UwAmp/UwAmp/bin/apache -f C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Wed Apr 24 22:15:56.531800 2024] [mpm_winnt:notice] [pid 22888:tid 684] AH00418: Parent: Created child process 7520
+[Wed Apr 24 22:16:00.465016 2024] [ssl:warn] [pid 7520:tid 704] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Apr 24 22:16:00.469016 2024] [ssl:warn] [pid 7520:tid 704] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 24 22:16:01.063132 2024] [ssl:warn] [pid 7520:tid 704] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Apr 24 22:16:01.066149 2024] [ssl:warn] [pid 7520:tid 704] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Apr 24 22:16:01.066149 2024] [ssl:warn] [pid 7520:tid 704] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 24 22:16:01.197015 2024] [mpm_winnt:notice] [pid 7520:tid 704] AH00354: Child: Starting 64 worker threads.
+[Wed Apr 24 22:22:22.251379 2024] [ssl:warn] [pid 16500:tid 484] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Apr 24 22:22:22.266192 2024] [ssl:warn] [pid 16500:tid 484] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 24 22:22:22.390597 2024] [core:warn] [pid 16500:tid 484] AH00098: pid file C:/Users/aliss/Downloads/UwAmp/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 24 22:22:22.767366 2024] [ssl:warn] [pid 16500:tid 484] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Apr 24 22:22:22.769371 2024] [ssl:warn] [pid 16500:tid 484] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Apr 24 22:22:22.769371 2024] [ssl:warn] [pid 16500:tid 484] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 24 22:22:23.139846 2024] [mpm_winnt:notice] [pid 16500:tid 484] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Wed Apr 24 22:22:23.139846 2024] [mpm_winnt:notice] [pid 16500:tid 484] AH00456: Server built: Jan 28 2016 09:58:25
+[Wed Apr 24 22:22:23.139846 2024] [core:notice] [pid 16500:tid 484] AH00094: Command line: 'C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/Users/aliss/Downloads/UwAmp/UwAmp/bin/apache -f C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Wed Apr 24 22:22:23.148810 2024] [mpm_winnt:notice] [pid 16500:tid 484] AH00418: Parent: Created child process 18744
+[Wed Apr 24 22:22:26.219480 2024] [ssl:warn] [pid 18744:tid 652] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Apr 24 22:22:26.222521 2024] [ssl:warn] [pid 18744:tid 652] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 24 22:22:26.781949 2024] [ssl:warn] [pid 18744:tid 652] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Apr 24 22:22:26.783694 2024] [ssl:warn] [pid 18744:tid 652] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Apr 24 22:22:26.783694 2024] [ssl:warn] [pid 18744:tid 652] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Apr 24 22:22:26.879497 2024] [mpm_winnt:notice] [pid 18744:tid 652] AH00354: Child: Starting 64 worker threads.
+[Fri Apr 26 10:22:20.244754 2024] [ssl:warn] [pid 26536:tid 668] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Apr 26 10:22:20.255863 2024] [ssl:warn] [pid 26536:tid 668] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 26 10:22:20.435377 2024] [core:warn] [pid 26536:tid 668] AH00098: pid file C:/Users/aliss/Downloads/UwAmp/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Apr 26 10:22:20.942739 2024] [ssl:warn] [pid 26536:tid 668] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Apr 26 10:22:20.944736 2024] [ssl:warn] [pid 26536:tid 668] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Apr 26 10:22:20.945737 2024] [ssl:warn] [pid 26536:tid 668] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 26 10:22:22.554745 2024] [mpm_winnt:notice] [pid 26536:tid 668] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Fri Apr 26 10:22:22.554745 2024] [mpm_winnt:notice] [pid 26536:tid 668] AH00456: Server built: Jan 28 2016 09:58:25
+[Fri Apr 26 10:22:22.554745 2024] [core:notice] [pid 26536:tid 668] AH00094: Command line: 'C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/Users/aliss/Downloads/UwAmp/UwAmp/bin/apache -f C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Fri Apr 26 10:22:22.569924 2024] [mpm_winnt:notice] [pid 26536:tid 668] AH00418: Parent: Created child process 20760
+[Fri Apr 26 10:22:29.855012 2024] [ssl:warn] [pid 20760:tid 640] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Apr 26 10:22:29.866154 2024] [ssl:warn] [pid 20760:tid 640] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 26 10:22:31.094735 2024] [ssl:warn] [pid 20760:tid 640] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Apr 26 10:22:31.095740 2024] [ssl:warn] [pid 20760:tid 640] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Apr 26 10:22:31.097255 2024] [ssl:warn] [pid 20760:tid 640] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 26 10:22:31.243633 2024] [mpm_winnt:notice] [pid 20760:tid 640] AH00354: Child: Starting 64 worker threads.
+[Mon May 13 07:02:06.585233 2024] [ssl:warn] [pid 24532:tid 512] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon May 13 07:02:06.591241 2024] [ssl:warn] [pid 24532:tid 512] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 13 07:02:06.726787 2024] [core:warn] [pid 24532:tid 512] AH00098: pid file C:/Users/aliss/Downloads/UwAmp/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon May 13 07:02:07.089900 2024] [ssl:warn] [pid 24532:tid 512] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon May 13 07:02:07.091903 2024] [ssl:warn] [pid 24532:tid 512] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon May 13 07:02:07.091903 2024] [ssl:warn] [pid 24532:tid 512] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 13 07:02:07.964772 2024] [mpm_winnt:notice] [pid 24532:tid 512] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Mon May 13 07:02:07.964772 2024] [mpm_winnt:notice] [pid 24532:tid 512] AH00456: Server built: Jan 28 2016 09:58:25
+[Mon May 13 07:02:07.964772 2024] [core:notice] [pid 24532:tid 512] AH00094: Command line: 'C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/Users/aliss/Downloads/UwAmp/UwAmp/bin/apache -f C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Mon May 13 07:02:07.973299 2024] [mpm_winnt:notice] [pid 24532:tid 512] AH00418: Parent: Created child process 22112
+[Mon May 13 07:02:11.250627 2024] [ssl:warn] [pid 22112:tid 676] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon May 13 07:02:11.252614 2024] [ssl:warn] [pid 22112:tid 676] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 13 07:02:11.853558 2024] [ssl:warn] [pid 22112:tid 676] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon May 13 07:02:11.855570 2024] [ssl:warn] [pid 22112:tid 676] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon May 13 07:02:11.855570 2024] [ssl:warn] [pid 22112:tid 676] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 13 07:02:11.962123 2024] [mpm_winnt:notice] [pid 22112:tid 676] AH00354: Child: Starting 64 worker threads.
+[Mon May 13 07:14:38.391338 2024] [:error] [pid 22112:tid 1344] [client ::1:54970] PHP Notice:  Use of undefined constant PHP_FLOAT_MAX - assumed 'PHP_FLOAT_MAX' in C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php on line 31, referer: http://localhost/calculoimc.php
+[Mon May 13 07:14:38.391338 2024] [:error] [pid 22112:tid 1344] [client ::1:54970] PHP Stack trace:, referer: http://localhost/calculoimc.php
+[Mon May 13 07:14:38.392325 2024] [:error] [pid 22112:tid 1344] [client ::1:54970] PHP   1. {main}() C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php:0, referer: http://localhost/calculoimc.php
+[Mon May 13 07:14:38.392325 2024] [:error] [pid 22112:tid 1344] [client ::1:54970] PHP   2. classificarIMC() C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php:46, referer: http://localhost/calculoimc.php
+[Mon May 13 07:18:41.407965 2024] [:error] [pid 22112:tid 1340] [client ::1:55072] PHP Notice:  Use of undefined constant PHP_FLOAT_MAX - assumed 'PHP_FLOAT_MAX' in C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php on line 31, referer: http://localhost/calculoimc.php
+[Mon May 13 07:18:41.409969 2024] [:error] [pid 22112:tid 1340] [client ::1:55072] PHP Stack trace:, referer: http://localhost/calculoimc.php
+[Mon May 13 07:18:41.409969 2024] [:error] [pid 22112:tid 1340] [client ::1:55072] PHP   1. {main}() C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php:0, referer: http://localhost/calculoimc.php
+[Mon May 13 07:18:41.409969 2024] [:error] [pid 22112:tid 1340] [client ::1:55072] PHP   2. classificarIMC() C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php:46, referer: http://localhost/calculoimc.php
+[Mon May 13 07:28:04.007598 2024] [:error] [pid 22112:tid 1344] [client ::1:55409] PHP Notice:  Use of undefined constant PHP_FLOAT_MAX - assumed 'PHP_FLOAT_MAX' in C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php on line 31, referer: http://localhost/calculoimc.php
+[Mon May 13 07:28:04.008592 2024] [:error] [pid 22112:tid 1344] [client ::1:55409] PHP Stack trace:, referer: http://localhost/calculoimc.php
+[Mon May 13 07:28:04.008592 2024] [:error] [pid 22112:tid 1344] [client ::1:55409] PHP   1. {main}() C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php:0, referer: http://localhost/calculoimc.php
+[Mon May 13 07:28:04.008592 2024] [:error] [pid 22112:tid 1344] [client ::1:55409] PHP   2. classificarIMC() C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php:46, referer: http://localhost/calculoimc.php
+[Mon May 13 07:28:06.764428 2024] [:error] [pid 22112:tid 1344] [client ::1:55409] PHP Notice:  Use of undefined constant PHP_FLOAT_MAX - assumed 'PHP_FLOAT_MAX' in C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php on line 31, referer: http://localhost/calculoimc.php
+[Mon May 13 07:28:06.764428 2024] [:error] [pid 22112:tid 1344] [client ::1:55409] PHP Stack trace:, referer: http://localhost/calculoimc.php
+[Mon May 13 07:28:06.764428 2024] [:error] [pid 22112:tid 1344] [client ::1:55409] PHP   1. {main}() C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php:0, referer: http://localhost/calculoimc.php
+[Mon May 13 07:28:06.764428 2024] [:error] [pid 22112:tid 1344] [client ::1:55409] PHP   2. classificarIMC() C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php:46, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:03:58.989785 2024] [ssl:warn] [pid 23424:tid 648] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jun 13 14:03:58.989785 2024] [ssl:warn] [pid 23424:tid 648] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 13 14:03:59.119637 2024] [core:warn] [pid 23424:tid 648] AH00098: pid file C:/Users/aliss/Downloads/UwAmp/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jun 13 14:03:59.543820 2024] [ssl:warn] [pid 23424:tid 648] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jun 13 14:03:59.548847 2024] [ssl:warn] [pid 23424:tid 648] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jun 13 14:03:59.548847 2024] [ssl:warn] [pid 23424:tid 648] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 13 14:04:00.594284 2024] [mpm_winnt:notice] [pid 23424:tid 648] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2f PHP/7.0.3 configured -- resuming normal operations
+[Thu Jun 13 14:04:00.594284 2024] [mpm_winnt:notice] [pid 23424:tid 648] AH00456: Server built: Jan 28 2016 09:58:25
+[Thu Jun 13 14:04:00.594284 2024] [core:notice] [pid 23424:tid 648] AH00094: Command line: 'C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\bin\\apache\\bin\\httpd.exe -d C:/Users/aliss/Downloads/UwAmp/UwAmp/bin/apache -f C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Thu Jun 13 14:04:00.601717 2024] [mpm_winnt:notice] [pid 23424:tid 648] AH00418: Parent: Created child process 15216
+[Thu Jun 13 14:04:04.639257 2024] [ssl:warn] [pid 15216:tid 612] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jun 13 14:04:04.641330 2024] [ssl:warn] [pid 15216:tid 612] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 13 14:04:05.179662 2024] [ssl:warn] [pid 15216:tid 612] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jun 13 14:04:05.181351 2024] [ssl:warn] [pid 15216:tid 612] AH01906: main-serveur:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Jun 13 14:04:05.181351 2024] [ssl:warn] [pid 15216:tid 612] AH01909: main-serveur:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jun 13 14:04:05.314068 2024] [mpm_winnt:notice] [pid 15216:tid 612] AH00354: Child: Starting 64 worker threads.
+[Thu Jun 13 14:56:34.581593 2024] [:error] [pid 15216:tid 1324] [client ::1:60921] PHP Notice:  Use of undefined constant PHP_FLOAT_MAX - assumed 'PHP_FLOAT_MAX' in C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php on line 31, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:56:34.582268 2024] [:error] [pid 15216:tid 1324] [client ::1:60921] PHP Stack trace:, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:56:34.582268 2024] [:error] [pid 15216:tid 1324] [client ::1:60921] PHP   1. {main}() C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php:0, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:56:34.582268 2024] [:error] [pid 15216:tid 1324] [client ::1:60921] PHP   2. classificarIMC() C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php:46, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:58:09.211475 2024] [:error] [pid 15216:tid 1332] [client ::1:63484] PHP Notice:  Use of undefined constant PHP_FLOAT_MAX - assumed 'PHP_FLOAT_MAX' in C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php on line 31, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:58:09.211475 2024] [:error] [pid 15216:tid 1332] [client ::1:63484] PHP Stack trace:, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:58:09.211475 2024] [:error] [pid 15216:tid 1332] [client ::1:63484] PHP   1. {main}() C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php:0, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:58:09.211475 2024] [:error] [pid 15216:tid 1332] [client ::1:63484] PHP   2. classificarIMC() C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php:46, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:58:17.072445 2024] [:error] [pid 15216:tid 1332] [client ::1:63486] PHP Notice:  Use of undefined constant PHP_FLOAT_MAX - assumed 'PHP_FLOAT_MAX' in C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php on line 31, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:58:17.072445 2024] [:error] [pid 15216:tid 1332] [client ::1:63486] PHP Stack trace:, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:58:17.072445 2024] [:error] [pid 15216:tid 1332] [client ::1:63486] PHP   1. {main}() C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php:0, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:58:17.072445 2024] [:error] [pid 15216:tid 1332] [client ::1:63486] PHP   2. classificarIMC() C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php:46, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:58:22.431676 2024] [:error] [pid 15216:tid 1324] [client ::1:63489] PHP Notice:  Use of undefined constant PHP_FLOAT_MAX - assumed 'PHP_FLOAT_MAX' in C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php on line 31, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:58:22.431676 2024] [:error] [pid 15216:tid 1324] [client ::1:63489] PHP Stack trace:, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:58:22.431676 2024] [:error] [pid 15216:tid 1324] [client ::1:63489] PHP   1. {main}() C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php:0, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:58:22.436729 2024] [:error] [pid 15216:tid 1324] [client ::1:63489] PHP   2. classificarIMC() C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php:46, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:58:24.995943 2024] [:error] [pid 15216:tid 1324] [client ::1:63489] PHP Notice:  Use of undefined constant PHP_FLOAT_MAX - assumed 'PHP_FLOAT_MAX' in C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php on line 31, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:58:24.996199 2024] [:error] [pid 15216:tid 1324] [client ::1:63489] PHP Stack trace:, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:58:24.996199 2024] [:error] [pid 15216:tid 1324] [client ::1:63489] PHP   1. {main}() C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php:0, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:58:24.996199 2024] [:error] [pid 15216:tid 1324] [client ::1:63489] PHP   2. classificarIMC() C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php:46, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:58:27.634639 2024] [:error] [pid 15216:tid 1324] [client ::1:63489] PHP Notice:  Use of undefined constant PHP_FLOAT_MAX - assumed 'PHP_FLOAT_MAX' in C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php on line 31, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:58:27.634639 2024] [:error] [pid 15216:tid 1324] [client ::1:63489] PHP Stack trace:, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:58:27.634639 2024] [:error] [pid 15216:tid 1324] [client ::1:63489] PHP   1. {main}() C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php:0, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:58:27.634639 2024] [:error] [pid 15216:tid 1324] [client ::1:63489] PHP   2. classificarIMC() C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php:46, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:58:29.945047 2024] [:error] [pid 15216:tid 1332] [client ::1:63492] PHP Notice:  Use of undefined constant PHP_FLOAT_MAX - assumed 'PHP_FLOAT_MAX' in C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php on line 31, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:58:29.945047 2024] [:error] [pid 15216:tid 1332] [client ::1:63492] PHP Stack trace:, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:58:29.945047 2024] [:error] [pid 15216:tid 1332] [client ::1:63492] PHP   1. {main}() C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php:0, referer: http://localhost/calculoimc.php
+[Thu Jun 13 14:58:29.945047 2024] [:error] [pid 15216:tid 1332] [client ::1:63492] PHP   2. classificarIMC() C:\\Users\\aliss\\Downloads\\UwAmp\\UwAmp\\www\\calculoimc.php:46, referer: http://localhost/calculoimc.php
